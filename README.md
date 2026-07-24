@@ -21,6 +21,7 @@ This repository contains my weekly assignments and learning materials completed 
 - 📄 Week 3 Assignment PDF
 - 📄 Week 4 Assignment PDF
 - 📄 Week 5 Assignment PDF
+- 📄 Week 6 Assignment PDF
 - 📄 Future assignments will be uploaded as the program progresses.
 
 ## Technologies Covered
